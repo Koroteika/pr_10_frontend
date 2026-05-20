@@ -54,7 +54,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pr_10_frontend.git
+   git clone https://github.com/Koroteika/pr_10_frontend.git
    cd pr_10_frontend
    ```
 
@@ -102,7 +102,7 @@
 
 ## 🔗 Ссылки
 
-- **Streamlit-приложение:** https://pr-10-frontend.streamlit.app
+- **Streamlit-приложение:** https://tluxaikgl8dlhgdchbgh49.streamlit.app/
 - **FastAPI-бэкенд:** https://pr-10-backend.onrender.com
 - **Документация API (Swagger):** https://pr-10-backend.onrender.com/docs
 
